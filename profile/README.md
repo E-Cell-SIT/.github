@@ -4,7 +4,7 @@ Welcome to E-Cell Saffrony Institute of Technology! 🎉
 
 ## About Us ℹ️
 
-E-Cell SIT, short for Entrepreneurship Cell, is a dynamic and passionate student-run organization at Saffrony Institute of Technology. Our mission is to inspire, educate, and empower engineering students and faculty to embrace entrepreneurship and develop skills to solve real-world problems for a positive impact on society. 🌍
+E-Cell SIT, short for Entrepreneurship Cell, is a dynamic and passionate student-run organization at Saffrony Institute of Technology. 
 
 ## Mission 🎯
 
