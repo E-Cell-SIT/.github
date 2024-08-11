@@ -1,6 +1,9 @@
 # 🚀 E-Cell SIT 🌱
+<div align="center">
+    <img src="https://raw.githubusercontent.com/E-Cell-SIT/ecell/25eaf9004c5aedc6a5d10a020864cfd50df4b3b9/ew.png" style="width: 300px; height: auto;" />
+    <h3>Welcome to E-Cell Saffrony Institute of Technology! 🎉</h3>
+</div>
 
-Welcome to E-Cell Saffrony Institute of Technology! 🎉
 
 ## About Us ℹ️
 
